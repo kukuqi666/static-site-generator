@@ -1,0 +1,33 @@
+[submodule "rspress"]
+	path = rspress
+	url = git@github.com:web-infra-dev/rspress.git
+[submodule "vitepress"]
+	path = vitepress
+	url = git@github.com:vuejs/vitepress.git
+[submodule "hexo-theme-matery"]
+	path = hexo-theme-matery
+	url = git@github.com:blinkfox/hexo-theme-matery.git
+[submodule "vuepress-theme-reco"]
+	path = vuepress-theme-reco
+	url = git@github.com:vuepress-reco/vuepress-theme-reco.git
+[submodule "vuepress-theme-hope"]
+	path = vuepress-theme-hope
+	url = git@github.com:vuepress-theme-hope/vuepress-theme-hope.git
+[submodule "nuxt3-awesome-starter"]
+	path = nuxt3-awesome-starter
+	url = git@github.com:viandwi24/nuxt3-awesome-starter.git
+[submodule "nuxt"]
+	path = nuxt
+	url = git@github.com:nuxt/nuxt.git
+[submodule "next-auth"]
+	path = next-auth
+	url = git@github.com:nextauthjs/next-auth.git
+[submodule "next"]
+	path = next
+	url = git@github.com:alibaba-fusion/next.git
+[submodule "hugo-blox-builder"]
+	path = hugo-blox-builder
+	url = git@github.com:HugoBlox/hugo-blox-builder.git
+[submodule "LoveIt"]
+	path = LoveIt
+	url = git@github.com:dillonzq/LoveIt.git
